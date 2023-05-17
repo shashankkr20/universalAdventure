@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/universalAdventure/static/css/main.25890455.css",
+    "main.js": "/universalAdventure/static/js/main.180065df.js",
+    "static/js/787.fb1e7847.chunk.js": "/universalAdventure/static/js/787.fb1e7847.chunk.js",
+    "static/media/adv.png": "/universalAdventure/static/media/adv.d5a29d90d4c2e00ac268.png",
+    "static/media/advent.png": "/universalAdventure/static/media/advent.09e5413380a506f5ba5a.png",
+    "static/media/backlong.png": "/universalAdventure/static/media/backlong.11517831d0bba370d1d9.png",
+    "static/media/logo.svg": "/universalAdventure/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/universalAdventure/index.html",
+    "main.25890455.css.map": "/universalAdventure/static/css/main.25890455.css.map",
+    "main.180065df.js.map": "/universalAdventure/static/js/main.180065df.js.map",
+    "787.fb1e7847.chunk.js.map": "/universalAdventure/static/js/787.fb1e7847.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.25890455.css",
+    "static/js/main.180065df.js"
+  ]
+}
